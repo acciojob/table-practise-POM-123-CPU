@@ -3,5 +3,5 @@ table{
 	
 	background-color:yellow;
 }
-th,td,tr{
+table,th,td,tr{
 border:1px solid black;}
